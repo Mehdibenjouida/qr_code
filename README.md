@@ -60,3 +60,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+##  set up the project 
+1-install composer
+2- install PHP ImageMagick Extension
+3-enabled the php_fileinfo extension(i found problems in this part)
